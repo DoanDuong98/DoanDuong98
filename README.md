@@ -15,7 +15,6 @@
 ### **Contact**
 * **Email:** duong080798@gmail.com
 * **LinkedIn:** [https://www.linkedin.com/in/doan-duong-a58761221](https://www.linkedin.com/in/doan-duong-a58761221/)
-* **Portfolio:** [https://github.com/DoanDuong98](https://github.com/DoanDuong98)
 <!--
 **DoanDuong98/DoanDuong98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
