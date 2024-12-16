@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+**Fullstack Developer** | **Information Technology** | **Passionate about building creative and high-performance web applications**
+
+🔭 I'm a Fullstack Developer with more 4 years of experience.
+🌱 I’m currently learning some techs related Devops's position ... 
+
+### **Skills**
+* **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS, Java, Go,...
+* **Frameworks/Libraries:** React, Node.js, Express.js, React Native, Go, SpringBoot
+* **Tools:** Git, npm, webpack, Babel, Docker
+* **Other:** Testing (Jest, React Testing Library), CI/CD (GitHub Actions), Cloud (AWS, Firebase), DevOps...
+
+### **Contact**
+* **Email:** duong080798@gmail.com
+* **LinkedIn:** [https://www.linkedin.com/in/doan-duong-a58761221](https://www.linkedin.com/in/doan-duong-a58761221/)
+* **Portfolio:** [https://github.com/DoanDuong98](https://github.com/DoanDuong98)
 <!--
 **DoanDuong98/DoanDuong98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
